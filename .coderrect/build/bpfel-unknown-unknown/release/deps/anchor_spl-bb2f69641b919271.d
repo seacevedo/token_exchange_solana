@@ -1,0 +1,12 @@
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/anchor_spl-bb2f69641b919271.ll: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/mint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/token.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/anchor_spl-bb2f69641b919271.rmeta: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/mint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/token.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/libanchor_spl-bb2f69641b919271.rlib: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/mint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/token.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/anchor_spl-bb2f69641b919271.d: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/mint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/token.rs
+
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/lib.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/mint.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/token.rs:

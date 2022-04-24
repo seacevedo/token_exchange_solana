@@ -1,0 +1,1 @@
+Error: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs:17 Function _ZN28spl_associated_token_account9processor19process_instruction17h5097c04ad254c7e4E Stack offset of 4264 exceeded max offset of 4096 by 168 bytes, please minimize large stack variables

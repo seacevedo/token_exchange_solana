@@ -1,0 +1,2 @@
+Error: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:165 Function _ZN4sha26sha2564soft23sha256_digest_block_u3217h4855c1c3e660a5edE Stack offset of 11872 exceeded max offset of 4096 by 7776 bytes, please minimize large stack variables
+Error: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:98 Function _ZN4sha26sha5124soft23sha512_digest_block_u6417h21bcdd551d7d7eb0E Stack offset of 19112 exceeded max offset of 4096 by 15016 bytes, please minimize large stack variables

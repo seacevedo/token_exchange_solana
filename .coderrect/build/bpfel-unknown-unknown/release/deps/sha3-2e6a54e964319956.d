@@ -1,0 +1,13 @@
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/sha3-2e6a54e964319956.ll: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/sha3-2e6a54e964319956.rmeta: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/libsha3-2e6a54e964319956.rlib: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/sha3-2e6a54e964319956.d: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs:

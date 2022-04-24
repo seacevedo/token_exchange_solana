@@ -1,0 +1,1 @@
+Error: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.22.0/src/associated_token.rs:29 Function _ZN78_$LT$anchor_spl..associated_token..Create$u20$as$u20$anchor_lang..Accounts$GT$12try_accounts17hdd1cbcaf07c17e72E Stack offset of 5520 exceeded max offset of 4096 by 1424 bytes, please minimize large stack variables

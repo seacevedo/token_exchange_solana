@@ -1,0 +1,11 @@
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/spl_associated_token_account-dfdf9e70bfce259e.ll: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/spl_associated_token_account-dfdf9e70bfce259e.so: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/libspl_associated_token_account-dfdf9e70bfce259e.rlib: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/mnt/c/Users/Saul Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/deps/spl_associated_token_account-dfdf9e70bfce259e.d: /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs:
+/home/seaceved/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs:

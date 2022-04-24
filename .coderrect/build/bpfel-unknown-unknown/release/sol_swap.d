@@ -1,0 +1,1 @@
+/mnt/c/Users/Saul\ Acevedo/Documents/solana_dapps/sol_swap/.coderrect/build/bpfel-unknown-unknown/release/sol_swap.so: /mnt/c/Users/Saul\ Acevedo/Documents/solana_dapps/sol_swap/programs/sol_swap/src/lib.rs
